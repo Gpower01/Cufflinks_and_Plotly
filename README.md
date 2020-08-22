@@ -1,5 +1,7 @@
 # Cufflinks_and_Plotly
- This project applies Cufflinks and Plotly Data visualisation libraries for Data Analysis and Machine Learning
+ This project applies Cufflinks and Plotly Data visualisation libraries for Data Analysis and Machine Learning. 
+
+ **The Notebook for this project are: Plotly_Cufflinks.ipynb and Geographical_Plotting.ipynb**
 
 ## Prerequisites 
 In order to use Plotly and Cufflinks Data Visualisation libraries, you will first install the following libraries using either `pip` or `conda`.
