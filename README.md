@@ -28,8 +28,22 @@ This section shows powerful visualisation examples available to visualise Data f
 - Plotly Composite Plots
 ![plotly_composite_plots](./images/plotly_composite_plots.png)
 
+# Geographical Plotting
+Geographically plotting is a challenging one because of the different formats the data can take.
 
+In this section, I showcase some of the examples of the Geographical plotting projects I have done and the applicatiomn of iplot data visualisation.
 
+- Analysis of the World Power Consumption in Year 2014
+![2014_world_power_consumption](./images/World_Power_Consumption.png)
+
+- Analysis of the World GDP for the Year 2014
+![2014_world_GDP](./images/2014_World_GDP.png)
+
+- Analysis of Election Data to Identify Voting Age Population for the US 2012 Election
+![2012_US_Election_Data](./images/2012_Election_Data.png)
+
+- US Agricultural Exports by States
+![2011_US_Agric_Export](./images/2011_US_Agric_Export.png)
 
 
 
