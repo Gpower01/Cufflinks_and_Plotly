@@ -4,11 +4,11 @@
 ## Prerequisites 
 In order to use Plotly and Cufflinks Data Visualisation libraries, you will first install the following libraries using either `pip` or `conda`.
 
-`pip install pandas`
-`pip install numpy`
-`pip install matplotlib`
-`pip install plotly`
-`pip install cufflinks`
+- `pip install pandas`
+- `pip install numpy`
+- `pip install matplotlib`
+- `pip install plotly`
+- `pip install cufflinks`
 
 ## Plotly Data Visualisation Examples
 This section shows powerful visualisation examples available to visualise Data for effective Data Analysis:
